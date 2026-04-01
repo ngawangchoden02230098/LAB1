@@ -108,7 +108,7 @@ class LinkedQueue:
 q = LinkedQueue()
 q.is_empty()
 
-# Task 4:
+# Task 4: Implement Linked List-based Queue Operations
 # Node class
 class Node:
     def __init__(self, data):
